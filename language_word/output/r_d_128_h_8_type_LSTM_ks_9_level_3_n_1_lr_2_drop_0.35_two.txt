@@ -1,0 +1,2 @@
+start
+| epoch   1 |   200/ 1452 batches | lr 2.00000 | ms/batch 38.35250 | loss  7.22 | ppl  1360.64

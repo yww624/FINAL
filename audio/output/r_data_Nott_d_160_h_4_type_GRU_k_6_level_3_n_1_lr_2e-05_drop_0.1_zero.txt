@@ -1,0 +1,10 @@
+start
+Epoch  1 | lr 0.00002 | loss 7.23146
+Epoch  1 | lr 0.00002 | loss 4.10221
+Epoch  1 | lr 0.00002 | loss 2.57714
+Epoch  1 | lr 0.00002 | loss 2.59030
+Epoch  1 | lr 0.00002 | loss 1.71104
+Epoch  1 | lr 0.00002 | loss 1.62098
+Validation loss: 0.92812
+Test loss: 0.99782
+Epoch  2 | lr 0.00002 | loss 1.13630

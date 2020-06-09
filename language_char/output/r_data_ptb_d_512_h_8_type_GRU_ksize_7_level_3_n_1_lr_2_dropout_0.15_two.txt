@@ -1,0 +1,2 @@
+start
+| epoch   1 |   100/ 1029 batches | lr 2.00000 | ms/batch 391.33 | loss 1.381 | bpc 1.993

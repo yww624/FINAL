@@ -1,0 +1,123 @@
+start
+Epoch  1 | lr 0.00002 | loss 7.23143
+Epoch  1 | lr 0.00002 | loss 4.10269
+Epoch  1 | lr 0.00002 | loss 2.57933
+Epoch  1 | lr 0.00002 | loss 2.59068
+Epoch  1 | lr 0.00002 | loss 1.71044
+Epoch  1 | lr 0.00002 | loss 1.62104
+Validation loss: 0.92854
+Test loss: 0.99820
+Epoch  2 | lr 0.00002 | loss 1.13661
+Epoch  2 | lr 0.00002 | loss 1.13787
+Epoch  2 | lr 0.00002 | loss 0.91366
+Epoch  2 | lr 0.00002 | loss 0.76327
+Epoch  2 | lr 0.00002 | loss 0.66914
+Epoch  2 | lr 0.00002 | loss 0.50572
+Validation loss: 0.48957
+Test loss: 0.57013
+Epoch  3 | lr 0.00002 | loss 0.53208
+Epoch  3 | lr 0.00002 | loss 0.52884
+Epoch  3 | lr 0.00002 | loss 0.41255
+Epoch  3 | lr 0.00002 | loss 0.29919
+Epoch  3 | lr 0.00002 | loss 0.52016
+Epoch  3 | lr 0.00002 | loss 0.35473
+Validation loss: 0.24132
+Test loss: 0.28631
+Epoch  4 | lr 0.00002 | loss 0.36929
+Epoch  4 | lr 0.00002 | loss 0.32281
+Epoch  4 | lr 0.00002 | loss 0.28112
+Epoch  4 | lr 0.00002 | loss 0.19423
+Epoch  4 | lr 0.00002 | loss 0.21132
+Epoch  4 | lr 0.00002 | loss 0.24687
+Validation loss: 0.16559
+Test loss: 0.20111
+Epoch  5 | lr 0.00002 | loss 0.17602
+Epoch  5 | lr 0.00002 | loss 0.30215
+Epoch  5 | lr 0.00002 | loss 0.20722
+Epoch  5 | lr 0.00002 | loss 0.19087
+Epoch  5 | lr 0.00002 | loss 0.15203
+Epoch  5 | lr 0.00002 | loss 0.20611
+Validation loss: 0.12885
+Test loss: 0.15529
+Epoch  6 | lr 0.00002 | loss 0.18592
+Epoch  6 | lr 0.00002 | loss 0.10737
+Epoch  6 | lr 0.00002 | loss 0.15514
+Epoch  6 | lr 0.00002 | loss 0.23128
+Epoch  6 | lr 0.00002 | loss 0.15007
+Epoch  6 | lr 0.00002 | loss 0.12829
+Validation loss: 0.10417
+Test loss: 0.12815
+Epoch  7 | lr 0.00002 | loss 0.13546
+Epoch  7 | lr 0.00002 | loss 0.07756
+Epoch  7 | lr 0.00002 | loss 0.08606
+Epoch  7 | lr 0.00002 | loss 0.11379
+Epoch  7 | lr 0.00002 | loss 0.12901
+Epoch  7 | lr 0.00002 | loss 0.09853
+Validation loss: 0.08715
+Test loss: 0.10851
+Epoch  8 | lr 0.00002 | loss 0.11096
+Epoch  8 | lr 0.00002 | loss 0.09268
+Epoch  8 | lr 0.00002 | loss 0.13359
+Epoch  8 | lr 0.00002 | loss 0.10233
+Epoch  8 | lr 0.00002 | loss 0.09986
+Epoch  8 | lr 0.00002 | loss 0.09455
+Validation loss: 0.07109
+Test loss: 0.08854
+Epoch  9 | lr 0.00002 | loss 0.08390
+Epoch  9 | lr 0.00002 | loss 0.08219
+Epoch  9 | lr 0.00002 | loss 0.08180
+Epoch  9 | lr 0.00002 | loss 0.06054
+Epoch  9 | lr 0.00002 | loss 0.09135
+Epoch  9 | lr 0.00002 | loss 0.07279
+Validation loss: 0.06297
+Test loss: 0.07756
+Epoch 10 | lr 0.00002 | loss 0.08340
+Epoch 10 | lr 0.00002 | loss 0.05896
+Epoch 10 | lr 0.00002 | loss 0.07215
+Epoch 10 | lr 0.00002 | loss 0.04962
+Epoch 10 | lr 0.00002 | loss 0.06529
+Epoch 10 | lr 0.00002 | loss 0.06802
+Validation loss: 0.05724
+Test loss: 0.07019
+Epoch 11 | lr 0.00002 | loss 0.05123
+Epoch 11 | lr 0.00002 | loss 0.06537
+Epoch 11 | lr 0.00002 | loss 0.06767
+Epoch 11 | lr 0.00002 | loss 0.05959
+Epoch 11 | lr 0.00002 | loss 0.06923
+Epoch 11 | lr 0.00002 | loss 0.01683
+Validation loss: 0.05045
+Test loss: 0.06268
+Epoch 12 | lr 0.00002 | loss 0.06318
+Epoch 12 | lr 0.00002 | loss 0.03968
+Epoch 12 | lr 0.00002 | loss 0.06630
+Epoch 12 | lr 0.00002 | loss 0.06768
+Epoch 12 | lr 0.00002 | loss 0.03316
+Epoch 12 | lr 0.00002 | loss 0.05145
+Validation loss: 0.04688
+Test loss: 0.05815
+Epoch 13 | lr 0.00002 | loss 0.06590
+Epoch 13 | lr 0.00002 | loss 0.04503
+Epoch 13 | lr 0.00002 | loss 0.08080
+Epoch 13 | lr 0.00002 | loss 0.04757
+Epoch 13 | lr 0.00002 | loss 0.05329
+Epoch 13 | lr 0.00002 | loss 0.05447
+Validation loss: 0.04368
+Test loss: 0.05485
+Epoch 14 | lr 0.00002 | loss 0.07390
+Epoch 14 | lr 0.00002 | loss 0.04873
+Epoch 14 | lr 0.00002 | loss 0.04899
+Epoch 14 | lr 0.00002 | loss 0.04920
+Epoch 14 | lr 0.00002 | loss 0.03324
+Epoch 14 | lr 0.00002 | loss 0.04801
+Validation loss: 0.04404
+Test loss: 0.05354
+Epoch 15 | lr 0.00002 | loss 0.05120
+Epoch 15 | lr 0.00002 | loss 0.03957
+Epoch 15 | lr 0.00002 | loss 0.04433
+Epoch 15 | lr 0.00002 | loss 0.05084
+Epoch 15 | lr 0.00002 | loss 0.03185
+Epoch 15 | lr 0.00002 | loss 0.04872
+Validation loss: 0.03803
+Test loss: 0.04646
+-----------------------------------------------------------------------------------------
+Eval loss: 0.04646

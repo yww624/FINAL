@@ -1,0 +1,8 @@
+start
+| epoch   1 |   100/  716 batches | lr 3.00000 | ms/batch 391.74 | loss 1.870 | bpc 2.698
+| epoch   1 |   200/  716 batches | lr 3.00000 | ms/batch 392.47 | loss 0.016 | bpc 0.022
+| epoch   1 |   300/  716 batches | lr 3.00000 | ms/batch 392.99 | loss 0.012 | bpc 0.017
+| epoch   1 |   400/  716 batches | lr 3.00000 | ms/batch 393.61 | loss 0.011 | bpc 0.015
+| epoch   1 |   500/  716 batches | lr 3.00000 | ms/batch 394.04 | loss 0.009 | bpc 0.013
+| epoch   1 |   600/  716 batches | lr 3.00000 | ms/batch 392.86 | loss 0.009 | bpc 0.013
+| epoch   1 |   700/  716 batches | lr 3.00000 | ms/batch 394.19 | loss 0.008 | bpc 0.012
