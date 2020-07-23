@@ -13,8 +13,8 @@ Our repository is arranged as follows:
     model_native.py  # comtains the model
     utils.py # utility functions including dataset downloading and preprocessing
 models /
-    RTransformerPlus.py                 # Transformer-Plus model without Conv1d
-    RTransformerPlusConv1d.py           # Transformer-Plus model 
+    RTransformer.py                 # Transformer-Plus model without Conv1d
+    RTransformerConv1d.py           # Transformer-Plus model 
 ```
 The dataset for the "polyphonic music modeling" experiment is already included in audio/data/. 
 
